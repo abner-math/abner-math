@@ -1,4 +1,10 @@
-### Hi there 👋
+### Olá! 👋
+
+I'm a Brazilian 🇧🇷 software engineer.
+
+Check out my [blog](https://abnerrjo.github.io) where I post interesting mini projects from time to time.
+
+Please, feel free to contact me on [Linkedin](https://www.linkedin.com/in/abnerrjo/) or through [e-mail](mailto:abner.rjo@gmail.com) at any time. 😃
 
 <!--
 **abnerrjo/abnerrjo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
