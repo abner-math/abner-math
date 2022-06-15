@@ -1,6 +1,6 @@
 ### Olá! 👋
 
-I'm a Brazilian 🇧🇷 software engineer.
+I'm a Brazilian 🇧🇷 software engineer currently living in Munich, Germany.
 
 Check out my [blog](https://abnerrjo.github.io) where I post interesting mini projects from time to time.
 
