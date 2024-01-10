@@ -2,9 +2,9 @@
 
 I'm a Brazilian 🇧🇷 software engineer currently living in Munich, Germany 🇩🇪.
 
-Check out my [blog](https://abner-math.github.io) where I post interesting mini projects from time to time.
+Check out my [blog](https://abner-math.github.io) where I post interesting mini-projects occasionally.
 
-Please, feel free to contact me on [Linkedin](https://www.linkedin.com/in/abner-math/) or through [e-mail](mailto:abner.math.c@gmail.com) at any time. 😃
+I can be reached on [Linkedin](https://www.linkedin.com/in/abner-math/) or by [e-mail](mailto:abner.math.c@gmail.com) at any time. 😃
 
 <!--
 **abnerrjo/abnerrjo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
