@@ -4,7 +4,7 @@ I'm a Brazilian 🇧🇷 software engineer currently living in Munich, Germany �
 
 Check out my [blog](https://abner-math.github.io) where I post interesting mini-projects occasionally.
 
-I can be reached on [Linkedin](https://www.linkedin.com/in/abner-math/) or by [e-mail](mailto:abner.math.c@gmail.com) at any time. 😃
+You can reach me on [Linkedin](https://www.linkedin.com/in/abner-math/) or by [e-mail](mailto:abner.math.c@gmail.com). 😃
 
 <!--
 **abnerrjo/abnerrjo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
